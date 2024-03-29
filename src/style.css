@@ -91,19 +91,18 @@ main {
   justify-content: flex-end;
   position: relative;
   top: 300px;
-  
 }
 .slider-menu li {
   padding: 8px;
 }
-.slider-menu #second-list{
+.slider-menu #second-list {
   padding-left: 55px;
 }
-.slider-menu #third-list{
+.slider-menu #third-list {
   padding-left: 13px;
 }
 .Slider-img-section {
-  height: 570px;
+  height: 740px;
   width: 100%;
 }
 .Slider-img-section img {
